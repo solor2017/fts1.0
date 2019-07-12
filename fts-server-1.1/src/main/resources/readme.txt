@@ -1,4 +1,5 @@
 # fts-1.1
+服务端安装
 链接：https://pan.baidu.com/s/1yUTwqTMkAD74pfInJnZFYQ
 提取码：0iuw
 1.先看openoffice文件夹的readme.txt
