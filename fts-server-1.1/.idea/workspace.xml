@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bd66b1b-c22f-4290-af74-4eb804e9aec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_analysis_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_commons_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_tree_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_util_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_xml_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__biz_aQute_bnd_bndlib_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__bouncycastle_bcprov_jdk15_140.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_alibaba_dubbo_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_fasterxml_aalto_xml_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_github_jponge_lzma_java_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_caliper_caliper_0_5_rc1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_code_java_allocation_instrumenter_java_allocation_instrumenter_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_guava_11_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_protobuf_nano_protobuf_javanano_3_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_jcraft_jzlib_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_oracle_substratevm_objectfile_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_oracle_substratevm_pointsto_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_oracle_substratevm_svm_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_sun_activation_javax_activation_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__info_picocli_picocli_3_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_build_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_tcnative___os_detected_classifier__2_0_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_tcnative_windows_x86_64_2_0_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_agrona_Agrona_0_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_core_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_core_api_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_core_constants_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_core_entry_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_core_jndi_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_dns_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_shared_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_server_apacheds_utils_1_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_asn1_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_asn1_codec_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_cursor_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_dsml_parser_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_i18n_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_constants_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_converter_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_jndi_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_dao_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_loader_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_schema_manager_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_directory_shared_shared_ldif_0_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_felix_org_apache_felix_configadmin_1_9_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_felix_org_apache_felix_framework_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_mina_mina_core_2_0_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_conscrypt_conscrypt_openjdk_uber_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_eclipse_jetty_alpn_alpn_api_1_1_2_v20150522.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_eclipse_jetty_npn_npn_api_1_1_1_v20141010.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_graalvm_compiler_compiler_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_graalvm_sdk_graal_sdk_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_graalvm_truffle_truffle_api_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_graalvm_truffle_truffle_nfi_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_1_4_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_1_4_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_serial_1_4_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jctools_jctools_core_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_mockito_mockito_core_2_18_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_base_ops4j_base_io_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_base_ops4j_base_lang_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_base_ops4j_base_monitors_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_base_ops4j_base_net_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_base_ops4j_base_spi_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_base_ops4j_base_store_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_base_ops4j_base_util_property_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_exam_pax_exam_4_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_exam_pax_exam_container_native_4_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_exam_pax_exam_junit4_4_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_exam_pax_exam_link_assembly_4_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_exam_pax_exam_spi_4_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_swissbox_pax_swissbox_core_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_swissbox_pax_swissbox_lifecycle_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_swissbox_pax_swissbox_optional_jcl_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_swissbox_pax_swissbox_property_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_swissbox_pax_swissbox_tracker_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_tinybundles_tinybundles_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_url_pax_url_classpath_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_url_pax_url_commons_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_ops4j_pax_url_pax_url_link_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_rxtx_rxtx_2_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_aop_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_beans_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_context_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_core_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_expression_4_3_16_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_tukaani_xz_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/fts-client-2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/src/test/java/TestFTSClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/src/test/java/TestNettyFileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/com/hcq/fts/config/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/com/hcq/fts/handler/FileCopyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/com/hcq/fts/handler/FileUploadClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/com/hcq/fts/handler/template/FileClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/com/hcq/fts/pojo/FileBox$FileBoxBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/com/hcq/fts/pojo/FileBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/com/hcq/fts/utils/MacUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/jfts-client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/test-classes/TestFTSClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-client/target/test-classes/TestNettyFileUpload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/fts-server-2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/FileOperateServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/CheckStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/CopyStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/DeleteStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/DownLoadStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/EmptyStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/FileOperateActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/FileOperateStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/FileOperateStrategyFactory$FileOperateKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/FileOperateStrategyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/MoveStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/RenameStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/SwfStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/ThumbStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/factory/UpLoadStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/pojo/FileBox$FileBoxBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/pojo/FileBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/com/hcq/fts/utils/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/jfts-server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fts-2.0/fts-server/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gupaoedu-vip-netty-rpc/gupaoedu-vip-netty-rpc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-client/src/test/java/com/hcq/sharplucene/LuceneClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sharp-lucene/lucene-server/src/test/java/com/hcq/sharplucene/LuceneServerApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="122" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bd66b1b-c22f-4290-af74-4eb804e9aec4" name="Default Changelist" comment="" />
+      <created>1562603158127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562603158127</updated>
+      <workItem from="1562603162250" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
